@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">currencyConversion</string>
+    <string name="enter_amount_in_dollars">Enter Amount in Dollars :</string>
+    <string name="rupee_dollar"><![CDATA[Rupee <-> Dollar]]></string>
+    <string name="enter_amount_in_rupees">Enter Amount in Rupees :</string>
+    <string name="convert_to_dollars">Convert to Dollars</string>
+    <string name="convert_to_rupees">Convert to Rupees</string>
+    <string name="_0_00">0.00</string>
+</resources>
